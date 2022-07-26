@@ -1,0 +1,10 @@
+.link-background {
+  background-image: linear-gradient(
+    to right,
+    #85ace7,
+    #3cbce4,
+    #1fc5c6,
+    #67c997,
+    #a9c46e
+  );
+}
