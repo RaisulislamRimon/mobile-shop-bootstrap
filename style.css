@@ -8,3 +8,16 @@
     #a9c46e
   );
 }
+.right-side-custom {
+  height: 300px;
+  width: 300px;
+  background: linear-gradient(
+    45deg,
+    #85ace7,
+    #3cbce4,
+    #1fc5c6,
+    #67c997,
+    #a9c46e
+  );
+  border-radius: 50%;
+}
